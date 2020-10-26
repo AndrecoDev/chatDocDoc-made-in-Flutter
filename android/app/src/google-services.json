@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "158308030358",
+    "firebase_url": "https://chatdocdoc-3d9ea.firebaseio.com",
+    "project_id": "chatdocdoc-3d9ea",
+    "storage_bucket": "chatdocdoc-3d9ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158308030358:android:0606cecd76da8ae1d0efb7",
+        "android_client_info": {
+          "package_name": "com.example.chat_doc_doc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158308030358-gtuoen9ah5lssrkauihboq5t4vrhn4g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX0Joj9idYi_4lV-BxJgafFzRWYtnh3sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158308030358-gtuoen9ah5lssrkauihboq5t4vrhn4g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
